@@ -37,7 +37,9 @@
     <Content Include="App\root.html" />
     <Content Include="data\resume.json" />
     <Content Include="package.json" />
+    <Content Include="public\stylesheets\Site.css" />
     <Content Include="public\stylesheets\Site.less" />
+    <Content Include="public\stylesheets\Site.min.css" />
     <Content Include="public\stylesheets\style.styl" />
     <Content Include="README.md" />
     <Content Include="views\index.html" />
