@@ -1,0 +1,188 @@
+﻿{
+  "FirstName": "Lee",
+  "LastName": "Pepper",
+  "Address": "816 Vance Dr. Lander, WY  82520",
+  "Email": "pepperlk@gmail.com",
+  "PhoneNumber": "307.321.3412",
+  "Title" : "Software Engineer & Team Leader",
+  "Summary": "Software engineering and architecture for high load applications. Team direction and management for small agile\r\nsoftware teams. Design of engaging and responsive systems is a goal and a joy.",
+  "Headshot" : "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/6/000/242/018/2335c77.jpg",
+  "Experience": [
+    {
+      "Employer": "PicthEngine",
+      "Title": "Director of Software Development",
+      "StartDate": "2011-08-26T00:00:00",
+      "EndDate": null,
+      "Current": true,
+      "MayContact": false,
+      "Summary": "\r\nManaged and helped a team design and release several iterations of product website, and its administrative websites.\r\nHelped team members with HR and career goals, as well as trouble shooting any technical problems. Comfortable with\r\nnew technologies and constantly challenging my team to learn and excel in their strengths. Designing next generation\r\ncloud systems for high load and high availability sites for public facing as well as internally. Designing and maintain\r\nproduct with sales, marketing, and executive input.\r\r\n",
+      "Address": "329 Main Lander, WY 82520",
+      "Phone": "307.855.4011"
+    },
+    {
+      "Employer": "Handel Information Technologies",
+      "Title": "Sr. Software Engineer",
+      "StartDate": "2009-05-01T00:00:00",
+      "EndDate": "2011-08-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Participated in the design and production of RiteTrack 5 and its modular composite framework. Designed and tested\nproduction modules for RiteTrack 5. Designed and created a package management system for the RteTrack 5 modular\nframework. Projected and estimated delivery of new components to production teams.\n",
+      "Address": "Laramie, WY",
+      "Phone": ""
+    },
+	{
+      "Employer": "Wyocode",
+      "Title": "Owner",
+      "StartDate": "2006-08-01T00:00:00",
+      "EndDate": "2009-05-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Designed and created projects for various companies. We delivered custom websites as well as desktop applications. Managed the communication between the client and subcontractors.",
+      "Address": "Laramie, WY",
+      "Phone": ""
+    },
+	{
+      "Employer": "ChapaCode",
+      "Title": "Software Engineer",
+      "StartDate": "2008-08-01T00:00:00",
+      "EndDate": "2009-01-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Maintained an internal website for the University of Wyoming School of Education that managed all of their students and student teacher placements.",
+      "Address": "Laramie, WY",
+      "Phone": ""
+    },
+	{
+      "Employer": "Wyoming.com",
+      "Title": "Tower Crew Foreman / Radio Frequency Engineer",
+      "StartDate": "2005-08-01T00:00:00",
+      "EndDate": "2006-07-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Planned and executed tower construction for large companies requiring a field area network (e.g. Oil Companies). Was responsible for an 8 man tower crew and the designs of the tower riggings and tower placement in relation the end point units.",
+      "Address": "Riverton, WY",
+      "Phone": ""
+    },
+	{
+      "Employer": "PICS.NET",
+      "Title": "Tower Crew",
+      "StartDate": "2005-01-01T00:00:00",
+      "EndDate": "2005-08-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Maintained equipment and installed new equipment on towers.",
+      "Address": "Lamesa, TX",
+      "Phone": ""
+    },
+	{
+      "Employer": "US Navy",
+      "Title": "Aviation Ordnance Man 3rd Class",
+      "StartDate": "2001-07-01T00:00:00",
+      "EndDate": "2004-01-01T00:00:00",
+      "Current": false,
+      "MayContact": true,
+      "Summary": "Inspect, maintains and repair aircraft mechanical and electrical armament/ordnance systems; Service aircraft guns and accessories; Stow, assembles and load aviation ammunition including aerial mines, torpedoes, missiles and rockets; Service bomb, missile and rocket releasing and launching devices; Load supplementary munitions; Assemble, tests and maintain air-launched guided missiles; Supervise operation of aviation ordnance shops, armories and stowage facilities; Working Environment",
+      "Address": "",
+      "Phone": ""
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "c#",
+      "Level": 5,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "ASP .NET MVC",
+      "Level": 5,
+      "StartDate": "2010-01-01T00:00:00",
+      "Current": true
+    },
+	{
+      "Name": "Silverlight",
+      "Level": 5,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": false
+    },
+	{
+      "Name": "WPF",
+      "Level": 4,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": false
+    },
+	{
+      "Name": "Windows Server / Azure Admin",
+      "Level": 4,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    },
+	{
+      "Name": "Android",
+      "Level": 3,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "Visual Studio",
+      "Level": 5,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "JavaScript",
+      "Level": 5,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "T-SQL",
+      "Level": 5,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "AngularJS",
+      "Level": 5,
+      "StartDate": "2013-06-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "jQuery",
+      "Level": 5,
+      "StartDate": "2011-08-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "RESTFUL API Design",
+      "Level": 5,
+      "StartDate": "2008-08-01T00:00:00",
+      "Current": true
+    },
+    {
+      "Name": "XAML",
+      "Level": 4,
+      "StartDate": "2008-01-01T00:00:00",
+      "Current": false
+    },
+	{
+      "Name": "Project Planning",
+      "Level": 4,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    },
+	{
+      "Name": "Team Mentoring",
+      "Level": 5,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    },
+	{
+      "Name": "Agile Development",
+      "Level": 5,
+      "StartDate": "2011-01-01T00:00:00",
+      "Current": true
+    }
+
+  ]
+}
