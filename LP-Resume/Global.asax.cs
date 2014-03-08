@@ -18,15 +18,15 @@ namespace LP_Resume
         protected void Application_Start()
         {
 
-            AzureCDNManager.Init(c =>
-            {
-                c.AzureStoregeConnectionString("DefaultEndpointsProtocol=http;AccountName=wyocode;AccountKey=yyBiCconwBI+X2QgeDX61XVeKmX5ExVafkehlLkqJtQi/dshNr+wQ6ELXbAg26Y5HLwG3cRWgved5Ycs6bfvew==;");
-                // c.Endpoint("http://wyocode.blob.core.windows.net/");
-                c.Folder("~/App");
-                c.Folder("~/Content");
-                //c.External("");
+            //AzureCDNManager.Init(c =>
+            //{
+            //    c.AzureStoregeConnectionString("DefaultEndpointsProtocol=http;AccountName=wyocode;AccountKey=yyBiCconwBI+X2QgeDX61XVeKmX5ExVafkehlLkqJtQi/dshNr+wQ6ELXbAg26Y5HLwG3cRWgved5Ycs6bfvew==;");
+            //    // c.Endpoint("http://wyocode.blob.core.windows.net/");
+            //    c.Folder("~/App");
+            //    c.Folder("~/Content");
+            //    //c.External("");
 
-            });
+            //});
 
 
             var builder = new ContainerBuilder();
